@@ -223,7 +223,7 @@ while True:
 
         x, y, z = pixel_to_robot(u, v, transform_matrix) 
 
-        print(f"像素 ({u:.1f}, {v:.1f}) → 机器人 ({x:.3f}, {y:.3f}, {z:.3f})") 
+        print(f"pixel ({u:.1f}, {v:.1f}) → robot ({x:.3f}, {y:.3f}, {z:.3f})") 
 
     else: 
 
