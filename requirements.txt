@@ -16,4 +16,4 @@ ultralytics
 
 matplotlib
 
-requests
+
